@@ -2,14 +2,6 @@
 
 Kuratiertes Link-Verzeichnis für Klinik, Forschung und Produktivität.
 
-**Bereiche:**
-- [[#🛠️ Productivity Tools]]
-- [[#🩺 Klinische Ressourcen]]
-- [[#📚 Datenbanken & Atlanten]]
-- [[#🎓 Forschung]]
-- [[#🎨 Grafik-Tools für Präsentationen & Paper]]
-- [[#📃 Dokumentbearbeitung]]
-
 ---
 
 ## 🛠️ Productivity Tools
@@ -113,3 +105,8 @@ Kuratiertes Link-Verzeichnis für Klinik, Forschung und Produktivität.
 |:--|:--|
 | **[PDF24](https://tools.pdf24.org/)** | Bestes kostenloses PDF-Toolkit. |
 
+---
+
+## Fee Open Courses & Initiatives
+
+- [ ] WIP
