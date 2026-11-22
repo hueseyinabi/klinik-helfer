@@ -12,7 +12,7 @@
 | **[Excalidraw](https://excalidraw.com/)** | Beste Whiteboard-App.                |
 | **[Nightwave Plaza](https://plaza.one/)** | tolles Lofi-Internetradio            |
 
-## 🩺 Klinische Ressourcen
+## 🩺 Clinical Resources
 
 | Link                                                               | Beschreibung                                                 |
 |:------------------------------------------------------------------ |:------------------------------------------------------------ |
@@ -33,7 +33,7 @@
 | **[AWMF Leitlinien-Register](https://register.awmf.org/de/start)** | –                                                            |
 | **[Leitlinienwatch](https://www.leitlinienwatch.de/)**             | –                                                            |
 
-## 📚 Datenbanken & Atlanten
+## 📚 Databases, Books, Wikis & Atlases 
 
 | Link                                                                                                             | Beschreibung                                                                                                                     |
 |:---------------------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------------------------------- |
@@ -60,7 +60,7 @@
 | **[Onkopedia](https://www.onkopedia.com/de)**                                                                    | –                                                                                                                                |
 | **[Projekt Anki](https://linktr.ee/anki_lokal)**                                                                 | Anki-Decks des BVMD                                                                                                              |
 
-## 🎓 Forschung
+## 🎓 Research Resources
 
 | Link | Beschreibung |
 |:--|:--|
@@ -86,7 +86,7 @@
 | **[R Cheatsheets](https://posit.co/resources/cheatsheets/)** | – |
 | **[Zotero](https://www.zotero.org/hueseyin_abi/library)** | – |
 
-## 🎨 Grafik-Tools für Präsentationen & Paper
+## 🎨 graphical tools for presentations and papers
 
 | Link | Beschreibung |
 |:--|:--|
@@ -99,7 +99,7 @@
 | **[Bioicons + Draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps://bioicons.com/drawio-lib/Bioicons-Scientific_graphs.xml)** | = ❤️ (weitere Bioicons-Bibliotheken in Draw.io über *+ More Shapes* nachladen) |
 | **[SciDraw](https://scidraw.io/)** | – |
 
-## 📃 Dokumentbearbeitung
+## 📃 document tools
 
 | Link | Beschreibung |
 |:--|:--|
@@ -142,4 +142,4 @@ There are many websites that offer video courses for entirely free. I collect th
 |:--|:--|
 | **[Khan Academy](https://www.khanacademy.org/)** | - |
 | **[The Human Brain by Nancy Kanwisher](https://www.youtube.com/playlist?list=PLpXfHEl2fzl6JWpKGs4w2X2laduGk9xY3)** | only watched parts of it, seems interesting |
-| **[UBC neuroanatomy 1](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9)**, **[UBC neuroanatomy 2](https://www.youtube.com/playlist?list=PL242bEng6nyKzgM8O75S4N-RFllWmJ-jY)**, [UBC neuroanatomy 3](https://www.youtube.com/playlist?list=PL242bEng6nyKO7p6GOdQVf-kXRN_nFvus) | - |
+| **[UBC neuroanatomy 1](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9)**, **[UBC neuroanatomy 2](https://www.youtube.com/playlist?list=PL242bEng6nyKzgM8O75S4N-RFllWmJ-jY)**, **[UBC neuroanatomy 3](https://www.youtube.com/playlist?list=PL242bEng6nyKO7p6GOdQVf-kXRN_nFvus)** | only watched a few videos, but saved here nonetheless |
