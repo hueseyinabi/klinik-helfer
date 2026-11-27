@@ -134,6 +134,7 @@ There are many websites that offer video courses for entirely free. I collect th
 | **[Yale 20](https://medicine.yale.edu/internal-medicine/education/othereducation/yale-20/)** | some videos are hit or miss, but generally a good primer |
 | **[Yale Radiology - Introduction to Radiology](https://www.youtube.com/playlist?list=PLMoHC7ioYlMb7L-EWLGCRO1iFICy0CP6F)** | good primer for radiology |
 | **[Yale Radiology - Neuroradiology](https://www.youtube.com/playlist?list=PLMoHC7ioYlMYqJDVNuoIDFIksoTFJwU6b)** | not watched yet, but saved here for future self |
+| **[Mainzer Medizinische Gesellschaft](https://www.mg-mainz.de/Videoarchiv.htm)** |  |
 
 ## basic sciences
 
