@@ -59,6 +59,7 @@
 | **[Wikipedia Medizin](https://en.wikipedia.org/wiki/Portal:Medicine)**                                           | Wikipedia für MedizinerInnen (Alternativ: mdwiki.org).                                                                           |
 | **[Onkopedia](https://www.onkopedia.com/de)**                                                                    | –                                                                                                                                |
 | **[Projekt Anki](https://linktr.ee/anki_lokal)**                                                                 | Anki-Decks des BVMD                                                                                                              |
+| **[Neuropathology Web](https://neuropathology-web.org/)** | |
 
 ## 🎓 Research Resources
 
