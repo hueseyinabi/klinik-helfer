@@ -17,9 +17,7 @@
 | Link                                                               | Beschreibung                                                 |
 |:------------------------------------------------------------------ |:------------------------------------------------------------ |
 | **[UpToDate](https://www.uptodate.com/app/)**                      | Aktuellstes Nachschlagewerk für medizinische Inhalte.        |
-| **[Amboss](https://next.amboss.com/de/ai-mode)**                   | Aktuell gehaltenes Kompendium und Leitlinien im AI-Mode.     |
-| **[DocFlex](https://flexikon.doccheck.com/)**                      | FlexDoc, DoctorFlex, FlexiDoc, FlexCheck, CheckDoc.          |
-| **[OpenEvidence](https://www.openevidence.com/)**                  | Bestes Chat-Tool für internationale Literatur. VPN benötigt. |
+| **[OpenEvidence](https://www.openevidence.com/)**                  | Chat-Tool für internationale Literatur. VPN benötigt. |
 | **[Befundomat](https://befundomat.de/)**                           | –                                                            |
 | **[EmbryoTox](https://www.embryotox.de/)**                         | –                                                            |
 | **[LiverTox](https://www.ncbi.nlm.nih.gov/books/NBK547852/)**      | Wie EmbryoTox, aber für Hepatotoxizität.                     |
